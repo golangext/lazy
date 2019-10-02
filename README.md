@@ -1,2 +1,2 @@
 # lazy
-Lazy constructs for golang
+Lazy constructs for golang. Relatively useless.
